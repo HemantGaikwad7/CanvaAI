@@ -43,7 +43,12 @@ Canva AI is revolutionizing the world of design with its intuitive AI-powered to
 **How to Use:**  
 1. Open Canva Docs and enable Magic Write.  
 2. Input a topic or brief, and Magic Write generates content.  
-**Example Use Case:** A social media manager can create engaging captions for multiple posts.  
+**Example Use Case:** A social media manager can create engaging captions for multiple posts.
+**Example:** A user can edit resume summary  
+![image](https://github.com/user-attachments/assets/8f33e824-484d-443c-8c5a-c76cbce218f2)
+![image](https://github.com/user-attachments/assets/ee7f5f7e-ceb8-4e8d-be4f-ad1bc97f87c3)
+![image](https://github.com/user-attachments/assets/8ac67184-ad1c-432f-8f2c-7ff40739489f)
+![image](https://github.com/user-attachments/assets/37f123cb-eca7-44bb-a83f-6826be652696)
 
 ### Background Remover  
 **Description:** Easily remove backgrounds from images with a single click.  
@@ -90,6 +95,7 @@ Canva AI is revolutionizing the world of design with its intuitive AI-powered to
 
 **Example:**  
 A YouTube creator can use Canva AI to create an engaging video thumbnail in under five minutes.  
+![image](https://github.com/user-attachments/assets/d865b1e7-b64b-4e63-a2b1-94cb8224829e)
 
 ---
 
